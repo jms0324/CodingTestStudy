@@ -82,7 +82,7 @@
 
 * 파일 이름
     ```
-    BOJ_1234_Hello World.java
+    [BOJ] 1234_Hello World.java
     ```
 
 * 디렉토리
