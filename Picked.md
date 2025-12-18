@@ -9,6 +9,8 @@
 | 25.12.12 | 재귀 | [팩토리얼2](https://www.acmicpc.net/problem/27433)(필수)  <br> [피보나치 수5](https://www.acmicpc.net/problem/10870) (필수)  <br> [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)(필수) <br>  [재귀의 귀재](https://www.acmicpc.net/problem/25501)  <br> [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | 브론즈5 <br> 브론즈2 <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/> <br> 브론즈2 <br>  <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>  | <br><br><br><br><br>|
 | 25.12.15 | 정렬 | [소트인사이드](https://www.acmicpc.net/problem/1427)  <br> [K번째 수](https://www.acmicpc.net/problem/11004)   <br> [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 브론즈1 <br> 실버5 <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>   | <br><br><br>|
 | 25.12.16 | 완전탐색 | [적어도 대부분의 배수](https://www.acmicpc.net/problem/1145)  <br> [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)   <br> [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | 실버2 <br>  <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>   | <br><br><br>|
+| 25.12.18 | 그리디 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)   | 실버2  |  |
+| 25.12.19 | 수학 | [최대공약수](https://www.acmicpc.net/problem/1850)   | 실버1  |  |
 
 
 ## 📅진도
