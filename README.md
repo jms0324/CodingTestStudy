@@ -40,7 +40,20 @@
 | 참석 | 예진 | 채원 | 성준 | 민석 | 훈주 | 의선
 | :---: | :---: | :---: | :---: | :---: |:---: | :---: |
 | Week 01</br>(25.12.04.수) | ✅ | ✅ | ✅ | ✅ |✅ | ✅ |
+| Week 02</br>(25.12.10.수) | ✅ | ✅ | ✅ | ✅ |✅ | ✅ |
+| Week 03</br>(25.12.17.수) | ✅ | ✅ | ✅ | ✅ |✅ | ✅ |
 
+
+| 문제 | 예진 | 채원 | 성준 | 민석 | 훈주 | 의선
+| :---: | :---: | :---: | :---: | :---: |:---: | :---: |
+| 문자열 <br>12 문제 | ✔️ |  🔟 | 🔟 | ✔️ | 🔟 |  🔟 |
+| 배열(응용)<br> 10문제 | ✔️ | ✔️  | ✔️ | ✔️ |  ✔️ |  ✔️ |
+| 해시 <br>5 문제 | ✔️  | 3️⃣  | 3️⃣ | 3️⃣  | 3️⃣ |   4️⃣ |
+| 스택<br>5 문제 | ✔️  | 1️⃣  | ✔️ |  ✔️ | ✔️ |  2️⃣  | 
+| 큐<br>5 문제 | 4️⃣  | 3️⃣ | 3️⃣ |  2️⃣ | 3️⃣ |   3️⃣ |
+| 재귀<br> 5 문제 | 3️⃣  |  3️⃣   | 3️⃣   |   |   3️⃣ | 3️⃣  |
+| 정렬<br>3 문제 |  ✔️ |    |   |   | ✔️ |   ✔️  |
+| 완전탐색<br>3 문제 | ✔️   |    |   |   |  |  ✔️    |
 
 ## 🔸스터디 규칙
 
@@ -129,7 +142,51 @@ Yejin / 코테를 위한 알고리즘 / 그리디 / 5문제
 ```
 * comment는 자유: 어떤 문제가 어려웠는지, 새롭게 배운 내용 등 회고 자유롭게 작성 가능
 
+---
 
+
+## 🔸 코테스터디 커리큘럼
+
+1. **강사님 코딩테스트 자료** - [링크](https://codro.notion.site/Java-ca9f5ebc7b8a4709b437a8f443eb3dbd)
+
+2. **프로그래머스 고득점 Kit** - [링크](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
+3. PCCP/SWEA/모의코테 - [swea](https://swexpertacademy.com/main/main.do)
+
+  <details>
+  <summary>공부 순서</summary>
+  <div markdown="1">
+  
+  <br/>
+  
+  * 강사님 강의자료
+    - 문자열
+    - 배열
+    - 리스트(ArrayList, Hash, Stack, Queue)
+    - 재귀
+    - 정렬
+    - 완전 탐색
+    - 그리디
+    - 수학
+    - 그래프/탐색(DFS, BFS, binarySearch)
+    - 다익스트라
+    - 최소신장트리
+    - 트리
+    - DP
+    - 백트래킹
+  
+  * 프로그래머스 고득점 KIT
+  ```
+  기본) 스택,큐,우선순위큐,Deque(★),해시맵,문자열
+  초급) PriorityQueue 완전탐색
+  중급) BinarySearch DFS BFS Recursion
+  심화) Graph DP
+  ```
+  
+  
+  </div>
+  </details>
+  
 ---
 
 
@@ -196,50 +253,7 @@ Yejin / 코테를 위한 알고리즘 / 그리디 / 5문제
     </div>
     </details>        
 
----
 
-
-## 🔸 코테스터디 커리큘럼
-
-1. **강사님 코딩테스트 자료** - [링크](https://codro.notion.site/Java-ca9f5ebc7b8a4709b437a8f443eb3dbd)
-
-2. **프로그래머스 고득점 Kit** - [링크](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
-
-3. PCCP/SWEA/모의코테 - [swea](https://swexpertacademy.com/main/main.do)
-
-  <details>
-  <summary>공부 순서</summary>
-  <div markdown="1">
-  
-  <br/>
-  
-  * 강사님 강의자료
-    - 문자열
-    - 배열
-    - 리스트(ArrayList, Hash, Stack, Queue)
-    - 재귀
-    - 정렬
-    - 완전 탐색
-    - 그리디
-    - 수학
-    - 그래프/탐색(DFS, BFS, binarySearch)
-    - 다익스트라
-    - 최소신장트리
-    - 트리
-    - DP
-    - 백트래킹
-  
-  * 프로그래머스 고득점 KIT
-  ```
-  기본) 스택,큐,우선순위큐,Deque(★),해시맵,문자열
-  초급) PriorityQueue 완전탐색
-  중급) BinarySearch DFS BFS Recursion
-  심화) Graph DP
-  ```
-  
-  
-  </div>
-  </details>
 
 ---
 
